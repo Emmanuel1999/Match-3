@@ -1,0 +1,4097 @@
+fileFormatVersion: 2
+guid: 6f207ceb3b347fe4faa4c5c40f962da8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cultural Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac31bbb38ec6644aac93001a47c6c7f
+      internalID: 1476869901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498eb4cc0955ec469fd0cd1fe97acd6
+      internalID: 433154009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2092c611af8845b86d86c1d66ee57
+      internalID: 1640467633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b909a6dfa6aec46a40b19de831596c
+      internalID: 1596916982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f8988090efd246a2ca7c78a449737
+      internalID: -1042917022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02ce3ef73c3db4f9e3f2b283c45dcc
+      internalID: 646077588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da2b637e9ef704eae22b3ba77716ee
+      internalID: -2103830915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e200dff4ca1547a9b0f265387da71
+      internalID: -2048159367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c78edd927875a4eaecb4231e6ff874
+      internalID: 1006618933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b336b57e520945ba48bf597334909
+      internalID: -1019773344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 3
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1318
+        width: 462
+        height: 209
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 6, z: 3, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30024fd878339194ea3d6e620aa1324c
+      internalID: 1780400662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfa3255625157247bb256282ae60c96
+      internalID: -615515094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bcce5ba6abfe34ca90e5bc70e5b409
+      internalID: -1134859988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c901e7e8a6b93bb4d94aef356c18e133
+      internalID: -2024898447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1352
+        width: 96
+        height: 187
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 7, y: 19, z: 5, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c750e296743f04f9321e22b95d6552
+      internalID: 2072119641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf0559d67f19447b6b01b1318c5b99
+      internalID: 563260893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultural1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 1984
+        height: 1452
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045f18ba51a1d8e42902bc92c4dd2484
+      internalID: -268783189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1349
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc130520708e624fbfc8b7fd1758843
+      internalID: -1683665988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49290f81f1d785444af45fe85534783d
+      internalID: 1864168810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1298
+        width: 315
+        height: 230
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c84a0a7486cc4a85baa7417c53076
+      internalID: 1516595291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4281183ebdd212349a574a204c559f91
+      internalID: 592825126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1276
+        width: 349
+        height: 280
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 4, y: 5, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3291d8b93867b48847131f4ce745e9
+      internalID: 2140238492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479c6566505ea74cbda23f6cb7acded
+      internalID: 1957818906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61769602610fd942a33c462ec8d94bc
+      internalID: 1019177716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae07fd7dfcf24429a4b2045ed94a9e
+      internalID: 1672153358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457e585334677b9498d3242bb657991e
+      internalID: 731080257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c38b6ab5190d4dbdc3bc0c84c6205
+      internalID: 1547551996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7b7e3a037aae4d9bf62464624de9c
+      internalID: 876647564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278bff3f40a28544c84821d33f30a1e3
+      internalID: 2051104577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf99ebb263097548aa4d576b3ebe053
+      internalID: 1080187844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f38ebef4d8bcf43bcc2a04f724bfbe
+      internalID: -949135956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6bf22730dd5c45b55a18041417e98
+      internalID: 1393332946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698e3eaf6eba2654aa9d440682575afd
+      internalID: -777379550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d1a6f386b3264a8126ad83a7b50c1
+      internalID: -673645797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483359dad081285418117352c9ef8fda
+      internalID: 339315080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a222ea928c99d540956147eb302bca4
+      internalID: 169793732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf89fe7954313a48be9745f15786efd
+      internalID: 131019793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863ed03269b9de4e939a94bea6c510a
+      internalID: 898435860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df2069aae9744041b034d293ef59516
+      internalID: 1548925534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bb2373021f9cd4887ced0b52733af1
+      internalID: -883778913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d718567526ab49adc771c20e3facf
+      internalID: 2125028122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d38a8e5b1674047a54705d187014dd
+      internalID: 1751013764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 2
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1217
+        width: 64
+        height: 88
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 11, y: 1, z: 2, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac85381260e0847a516244a57b8671
+      internalID: -711327514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6abf414bd1f2468853a75018b8acf
+      internalID: 1437127372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1099
+        width: 173
+        height: 169
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d6e2945c44324380749068fc39266
+      internalID: -329565256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a69983ca45c6a4aaf02f4c6897ce52
+      internalID: -669114310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df2c77afe0c0149b57ea2441ec8344
+      internalID: -1092374378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f081c3b69cdad4fbb88d9d1975b6f8
+      internalID: -2144631208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a42569e75bba4783a08637278ede2
+      internalID: 606906923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87811f3d1290a9e4c8b971e5f98c1d0f
+      internalID: 902286794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79bc6c9bf9d3e45bb4b5ff91e68da6
+      internalID: 1507831850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e58513cd49a30f47a5a41067e979750
+      internalID: 483673826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b81b3797a87424b8a9664ca6ee22b8
+      internalID: -778049272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a75b4796a2d3704dbc1d738c39084bf
+      internalID: 2033533494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feec925acad6204e8963a402e8a5b5f
+      internalID: -1078174054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e097f329b6e64a8c5bfd14f7cd71e
+      internalID: 129628398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04875e6adda9ce4f8e06ae527df0688
+      internalID: -192564615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a7e93ba4bb70409b61faaf4308232
+      internalID: -1291145497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board 7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 798
+        width: 158
+        height: 287
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 4, y: 3, z: 4, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a9b6c71a90e741a70fd3b617caf31
+      internalID: -1951392127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16418812004d9f4cb289dc3ad353937
+      internalID: 997224806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891c257a5eac7c4c9f0a20b8f1fa55c
+      internalID: -415330920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b799f4af3eb506428acb00de30b4532
+      internalID: -32581178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 840
+        width: 484
+        height: 396
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 6, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07819991593ec3b49a08148a63adbce4
+      internalID: 439470878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1103
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeaca30b5dba8b4da9f1bc3609683b4
+      internalID: -1799132809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4037bb8813f6479b2c52ce98f80ef
+      internalID: 1223679192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6788d679d95e7c4989fee2557c3df7c
+      internalID: 633814590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325550f1ba7371c4f93cbd29177f3a40
+      internalID: -1566119690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 668
+        width: 378
+        height: 568
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 1, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e2ca9f183c8a47a3fa9f991b347ad
+      internalID: -142977865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21ab7609b14144dacbda3abf87ef9f
+      internalID: 60357334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f48f4db1a9f964b940bf232b751be1
+      internalID: -223327571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac59bbf69abb7e4eaa712d229e4e3ed
+      internalID: -609417595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94db2d2fead7140aaffe0115480b5b
+      internalID: -328209227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 960
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0400b5a3150648843343acce275c5
+      internalID: 28025600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f60c1ba29d8e45a74b5db7720e88f
+      internalID: -1798549715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aee5cc977ac6948a148a53afed990e
+      internalID: -1355857498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 876
+        width: 115
+        height: 160
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 7, y: 4, z: 10, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e935654f79ac3e47b111bb230521d9c
+      internalID: 806180114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25425fd012e17429514370904721ab
+      internalID: -285384700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02abdf1323b854a97ab4000274f578
+      internalID: 1947995298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6599ad6e8717f74e88168cf1c575000
+      internalID: 1775539723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ffd2c26ee38e4897dbf8a69bd4b47
+      internalID: -967056705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98214286caec064c99972b8d589c69f
+      internalID: -1754543109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14cf10ebfb0be419c9d736baaed0f7
+      internalID: -931470941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf609d9add51bab468bcf6133f3c0e3a
+      internalID: -446741953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f0d4a6e8125243aa42ab4d5244426
+      internalID: -1954575234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c9bd64b481f346bc998491421afd7
+      internalID: -1200174307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 627
+        width: 415
+        height: 619
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 0, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5880e9ce60e31645881e4da8accd003
+      internalID: 707820929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861406b4a35f64f4fa5f0210a7c8bf15
+      internalID: 505922267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 832
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef7cfeb2cfea244818a502feede4a8
+      internalID: -590928719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20562f7aaf3e74092041df53ce1a2e
+      internalID: 889277778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a0c0ccb703fd48a7fae0e59b8e8ab
+      internalID: -61831513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7768372899c9f39409d0d722ac58f989
+      internalID: 1947277560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0698faaae18a7e448d40a7d5802745b
+      internalID: 939583618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aded6d9a994d44ca888fb16b9e0037
+      internalID: -1259383883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfa73628d42ea42b8bd80219ba0d09
+      internalID: 1089736501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 699
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b716c6777de24985e3d6852da67e8
+      internalID: 1912205420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b65c669eac5264ab8029930ef6fa4b
+      internalID: -1540977441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad92d4c951e2f4aa36bc7ddd240365
+      internalID: 1559307554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d2dffae848db4da9c27e3a53e216a
+      internalID: -619952657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 887
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e92e0691e36b47a3d9419017fc7bc
+      internalID: 528153640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b92f12e5961846ab226680a68183f
+      internalID: 287477904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc53cdc22e7bc5428dcc7fa559aedae
+      internalID: 2128923857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 704
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac0db8464948943895f5b8ee8aa7f6
+      internalID: -432938068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1299
+        width: 436
+        height: 276
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 6, y: 7, z: 1, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def04ac9778e2a344820b7807d532a31
+      internalID: -526554835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 432
+        width: 236
+        height: 351
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6505fa87594e8e40bb93637ebbf1089
+      internalID: 474617338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b71baaa8bb664aaafd0d2dc235a5b
+      internalID: 510609296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac4b2ccf3b580419b7036114f987ea
+      internalID: 577248224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16469e94ec5f3a4ab6e450959a9b35f
+      internalID: 2126640916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 434
+        width: 743
+        height: 374
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab21868808c3a34dabeacb97764f19d
+      internalID: -703379562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b30146899abd841a9143468bd90fcb
+      internalID: 2122084150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a4c60bc6552d41a9a2b99e8097592
+      internalID: 1819122033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae90105b9628240b7f8b21ba82ded4
+      internalID: -696849191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c2d096b508e149bd964b2b427b7f4
+      internalID: -1753156633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f22195a23747042b1951a1f56071c4
+      internalID: -2121988465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bd80f4c2deda4bb40ebb449cf03d8
+      internalID: -852759172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3be13124ecb9459e6170b49ff1ce7
+      internalID: -1883398910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a3617bbf268c41a8cf58399d8c600
+      internalID: 1554745653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ee11172ad00c4e9fe08f2e6431cca
+      internalID: -223164161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 576
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071ba98b516eda4eb0cfac651298b1a
+      internalID: -536229004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b416b21afc9c459732ec5eb2c032a
+      internalID: -160733734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2201d9b0ba700498a4a18fee832669
+      internalID: -1542325615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b20826af18c849a69abbe51c86361
+      internalID: -1735813671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625b59fe6c70d048af5cd6c8fa7c1b7
+      internalID: -574541570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c33db9e8a91cb4a9c9dfc75932ccb6
+      internalID: 629262243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a08ec5fa599f45a1a55d5fff0c8c7
+      internalID: 1641997586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f0d65a27ac024c9bf5aee5541deb6
+      internalID: 451420267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f8477493eaba4e885c8c404712df3
+      internalID: 403704069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 18
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 153
+        width: 162
+        height: 378
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 4, y: 4, z: 2, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e44db10f6bc614dbfc982bd7fcdcfb
+      internalID: -1597441946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 16
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 376
+        width: 91
+        height: 188
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 3, z: 2, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46210c42b64f7a42a8978a1449378a3
+      internalID: 1036206557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d60baa32759e9408969239118c924a
+      internalID: -1703655870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 17
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 375
+        width: 187
+        height: 211
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 1, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfa1558c48b9e4bb3bce6d0a296f21
+      internalID: 152790231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 13
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 371
+        width: 123
+        height: 205
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 13, y: 2, z: 10, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f2aa8918a05594fb8204fefff84c6c
+      internalID: -692580514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2569444ab8b9c40b9aa565eb25ef2c
+      internalID: -1284094948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 448
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db74a8be8a31b2498f00b2dd0f8ccca
+      internalID: 1843125838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085bc701c4febb2439683f9fa056076d
+      internalID: -695243255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03322b3f9b6ff794292c2f48ce8786bf
+      internalID: -895495017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8987710ca853418bfaf2e8585e2d3
+      internalID: -2147396082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9db9afa037e0a4aaf759b621860b44
+      internalID: 872713959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e92e8cc969d4f4e93743cf9d5d8c4a
+      internalID: 1752957976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b00430ddf83a424f99c7da0fbfa474f
+      internalID: 605028411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ed49b33a63aad48881dc3eb389edb3
+      internalID: -1850819532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ae42df8f7ad24db2aba904d66d5a2
+      internalID: -1941452351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4c079ed96d1446a8908e3d2bc3053
+      internalID: -831139763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92267be82873e03408e99431408d0766
+      internalID: 2116650411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd956f201e2d1429438d64b08b1ba9
+      internalID: 984855379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdf77f935f1504ea97bddc7361c19c
+      internalID: 1132391356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8f355f5388064caa48e5c581fc7c7
+      internalID: 1174380151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 320
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84ae8968c690f4a868bc22576fd22c
+      internalID: 381561972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 12
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 178
+        width: 112
+        height: 325
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 5, y: 4, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0b48e9aa6ece4c870c4a83e568f6b
+      internalID: -492463920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6177fca86bc8846996b9a16ebf08bd
+      internalID: 778980355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb82b1f12c31f4f99505f21870236a
+      internalID: -1548614425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700df060a353d340a128dbcb2b0546b
+      internalID: 920861875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9956d5fce1ca649a604134da776e0d
+      internalID: 1372443606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board 8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 227
+        width: 697
+        height: 189
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 6, y: 1, z: 5, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274e2a2d921f2d45b16926f7fe85b00
+      internalID: 2093311907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af11ca9bdad394a80b5bf569a73f1d
+      internalID: 539624086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 19
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 136
+        width: 119
+        height: 246
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 6, z: 4, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd22244da1b9374eb4d69a69dc631a0
+      internalID: -1518689298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f234a80ab002439aa6d9d4ceee204
+      internalID: 1291391268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2dc77df6704c47801bd610ec96d03
+      internalID: 625951280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 208
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6d75cd028ec047b944ef3ad79c697
+      internalID: 512172564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf0e42e8ecdd040a5aaf9315551313
+      internalID: 1723155463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 15
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 149
+        width: 183
+        height: 213
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 5, y: 14, z: 2, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419d0abca3225940a30c6b106fc4d04
+      internalID: 367393673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture 14
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 163
+        width: 130
+        height: 205
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 4, y: 2, z: 5, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d24f065b6341549a30b098d4f95138
+      internalID: -1000491690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03553455182a12438c514a26234123f
+      internalID: 483324846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 192
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd00bd82d75a1544acbab7d111c6b1a
+      internalID: -999069787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd82008e913cc448c0afb25aaa99fd
+      internalID: -1684001616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b797b6a868225469553b873a1f549c
+      internalID: 104219504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26149996b569341b65fefa186bcebf
+      internalID: -2021343581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819761db7d4873e46947922b0ad316c1
+      internalID: 863077265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205ccda3ce9ff34495e92c2481d4b83
+      internalID: -1784692801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab70bc1e6983f742876ff57645f672f
+      internalID: 81824502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c5d660f3f02f4aadc10df66d66638
+      internalID: -959900450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9b7dfab66c5340a78ffe91818ccc6
+      internalID: 2116438637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eccb76a6c575b4e8a298358c23a432
+      internalID: 278004999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d5e91fdb29484da4dfc18f2bd660c
+      internalID: -493246098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fae7c5abb477f459e8efa07a3fc215
+      internalID: 678346646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a93b9e3b0501e499a767944ef4ad8a
+      internalID: -169222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c473d85cde6624196ec4ede88a5b78
+      internalID: -1545686923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c5d8d6303764a41aaff886f81453fd
+      internalID: -124523664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultural Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedeb0c7c3767b64482719d93c30f16c
+      internalID: -462327704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Board 7: -1951392127
+      Board 8: 2093311907
+      Board1: 439470878
+      Board2: 707820929
+      Board3: -142977865
+      Board4: -703379562
+      Board6: 474617338
+      Cultural Sprite_0: 1476869901
+      Cultural Sprite_1: 433154009
+      Cultural Sprite_100: 528153640
+      Cultural Sprite_101: 287477904
+      Cultural Sprite_102: 2128923857
+      Cultural Sprite_103: -432938068
+      Cultural Sprite_106: 510609296
+      Cultural Sprite_107: 577248224
+      Cultural Sprite_108: 2126640916
+      Cultural Sprite_11: -615515094
+      Cultural Sprite_110: 2122084150
+      Cultural Sprite_111: 1819122033
+      Cultural Sprite_112: -696849191
+      Cultural Sprite_113: -1753156633
+      Cultural Sprite_114: -2121988465
+      Cultural Sprite_115: -852759172
+      Cultural Sprite_116: -1883398910
+      Cultural Sprite_117: 1554745653
+      Cultural Sprite_118: -223164161
+      Cultural Sprite_119: -536229004
+      Cultural Sprite_12: -1134859988
+      Cultural Sprite_120: -160733734
+      Cultural Sprite_121: -1542325615
+      Cultural Sprite_122: -1735813671
+      Cultural Sprite_123: -574541570
+      Cultural Sprite_124: 629262243
+      Cultural Sprite_125: 1641997586
+      Cultural Sprite_126: 451420267
+      Cultural Sprite_127: 403704069
+      Cultural Sprite_13: -2024898447
+      Cultural Sprite_130: -1703655870
+      Cultural Sprite_133: -1284094948
+      Cultural Sprite_134: 1843125838
+      Cultural Sprite_135: -695243255
+      Cultural Sprite_136: -895495017
+      Cultural Sprite_137: -2147396082
+      Cultural Sprite_138: 872713959
+      Cultural Sprite_139: 1752957976
+      Cultural Sprite_140: 605028411
+      Cultural Sprite_141: -1850819532
+      Cultural Sprite_142: -1941452351
+      Cultural Sprite_143: -831139763
+      Cultural Sprite_144: 2116650411
+      Cultural Sprite_145: 984855379
+      Cultural Sprite_146: 1132391356
+      Cultural Sprite_147: 1174380151
+      Cultural Sprite_148: 381561972
+      Cultural Sprite_15: 563260893
+      Cultural Sprite_150: 778980355
+      Cultural Sprite_151: -1548614425
+      Cultural Sprite_152: 920861875
+      Cultural Sprite_153: 1372443606
+      Cultural Sprite_155: 539624086
+      Cultural Sprite_157: 1291391268
+      Cultural Sprite_158: 625951280
+      Cultural Sprite_159: 512172564
+      Cultural Sprite_160: 1723155463
+      Cultural Sprite_163: 483324846
+      Cultural Sprite_164: -999069787
+      Cultural Sprite_165: -1684001616
+      Cultural Sprite_166: 104219504
+      Cultural Sprite_167: -2021343581
+      Cultural Sprite_168: 863077265
+      Cultural Sprite_169: -1784692801
+      Cultural Sprite_170: 81824502
+      Cultural Sprite_171: -959900450
+      Cultural Sprite_172: 2116438637
+      Cultural Sprite_173: 278004999
+      Cultural Sprite_174: -493246098
+      Cultural Sprite_175: 678346646
+      Cultural Sprite_176: -169222545
+      Cultural Sprite_177: -1545686923
+      Cultural Sprite_178: -124523664
+      Cultural Sprite_179: -462327704
+      Cultural Sprite_18: -1683665988
+      Cultural Sprite_19: 1864168810
+      Cultural Sprite_2: 1640467633
+      Cultural Sprite_21: 592825126
+      Cultural Sprite_23: 1957818906
+      Cultural Sprite_24: 1019177716
+      Cultural Sprite_25: 1672153358
+      Cultural Sprite_26: 731080257
+      Cultural Sprite_27: 1547551996
+      Cultural Sprite_28: 876647564
+      Cultural Sprite_29: 2051104577
+      Cultural Sprite_3: 1596916982
+      Cultural Sprite_30: 1080187844
+      Cultural Sprite_31: -949135956
+      Cultural Sprite_32: 154552807
+      Cultural Sprite_33: 1393332946
+      Cultural Sprite_34: -777379550
+      Cultural Sprite_35: -673645797
+      Cultural Sprite_36: 339315080
+      Cultural Sprite_37: 169793732
+      Cultural Sprite_38: 131019793
+      Cultural Sprite_39: 898435860
+      Cultural Sprite_4: -1042917022
+      Cultural Sprite_40: 1548925534
+      Cultural Sprite_41: -883778913
+      Cultural Sprite_42: 2125028122
+      Cultural Sprite_43: 1751013764
+      Cultural Sprite_45: 1437127372
+      Cultural Sprite_47: -669114310
+      Cultural Sprite_48: -1092374378
+      Cultural Sprite_49: -2144631208
+      Cultural Sprite_5: 646077588
+      Cultural Sprite_50: 606906923
+      Cultural Sprite_51: 902286794
+      Cultural Sprite_52: 1507831850
+      Cultural Sprite_53: 483673826
+      Cultural Sprite_54: -778049272
+      Cultural Sprite_55: 2033533494
+      Cultural Sprite_56: -1078174054
+      Cultural Sprite_57: 129628398
+      Cultural Sprite_58: -192564615
+      Cultural Sprite_59: -1291145497
+      Cultural Sprite_6: -2103830915
+      Cultural Sprite_61: 997224806
+      Cultural Sprite_62: -415330920
+      Cultural Sprite_63: -32581178
+      Cultural Sprite_65: -1799132809
+      Cultural Sprite_66: 1223679192
+      Cultural Sprite_67: 633814590
+      Cultural Sprite_68: -1566119690
+      Cultural Sprite_7: -2048159367
+      Cultural Sprite_70: 60357334
+      Cultural Sprite_71: -223327571
+      Cultural Sprite_72: -609417595
+      Cultural Sprite_73: -328209227
+      Cultural Sprite_74: 28025600
+      Cultural Sprite_75: -1798549715
+      Cultural Sprite_76: -1355857498
+      Cultural Sprite_78: -285384700
+      Cultural Sprite_79: 1947995298
+      Cultural Sprite_8: 1006618933
+      Cultural Sprite_80: 1775539723
+      Cultural Sprite_81: -967056705
+      Cultural Sprite_82: -1754543109
+      Cultural Sprite_83: -931470941
+      Cultural Sprite_84: -446741953
+      Cultural Sprite_85: -1954575234
+      Cultural Sprite_86: -1200174307
+      Cultural Sprite_88: 505922267
+      Cultural Sprite_89: -590928719
+      Cultural Sprite_9: -1019773344
+      Cultural Sprite_90: 889277778
+      Cultural Sprite_91: -61831513
+      Cultural Sprite_92: 1947277560
+      Cultural Sprite_93: 939583618
+      Cultural Sprite_94: -1259383883
+      Cultural Sprite_95: 1089736501
+      Cultural Sprite_96: 1912205420
+      Cultural Sprite_97: -1540977441
+      Cultural Sprite_98: 1559307554
+      Cultural Sprite_99: -619952657
+      Sculpture 10: 806180114
+      Sculpture 11: -526554835
+      Sculpture 12: -492463920
+      Sculpture 13: -692580514
+      Sculpture 14: -1000491690
+      Sculpture 15: 367393673
+      Sculpture 16: 1036206557
+      Sculpture 17: 152790231
+      Sculpture 18: -1597441946
+      Sculpture 19: -1518689298
+      Sculpture 2: -711327514
+      Sculpture 3: 1780400662
+      Sculpture 4: 179514610
+      Sculpture 5: 1516595291
+      Sculpture 6: 2140238492
+      Sculpture 9: -329565256
+      Sculpture1: 2072119641
+      cultural1: -268783189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
